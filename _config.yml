@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhaocen Zhang"
-  avatar           : "profile_pic.png" #"/images/profile_pic.jpg"
+  avatar           : "/images/profile_pic.png" #"/images/profile_pic.jpg"
   bio              : "Graduate student, Electric Information Engineering"
   location         : "Beijing, China"
   employer         :
