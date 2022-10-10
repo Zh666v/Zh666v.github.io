@@ -12,7 +12,7 @@ remote_theme: academicpages/academicpages.github.io
 locale                   : "zh-cn"
 title                    : "张兆岑"
 title_separator          : "-"
-name                     : &name "张兆岑"
+name                     : &name "ZhangZhaocen"
 description              : &description "个人简述"
 url                      : https://zhangzhaocen.com # the base hostname & protocol for your site e.g. "https://Zh666v.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
