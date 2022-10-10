@@ -12,8 +12,8 @@ remote_theme: academicpages/academicpages.github.io
 locale                   : "en-us"
 title                    : "Zhang Zhaocen"
 title_separator          : "-"
-name                     : &name "ZhangZhaocen"
-description              : &description "personal description"
+name                     : &name "Zhang Zhaocen"
+description              : &description "personality description"
 url                      : https://zhangzhaocen.com # the base hostname & protocol for your site e.g. "https://Zh666v.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zh666v/Zh666v.github.io"
@@ -86,7 +86,7 @@ author:
   name             : "Zhaocen Zhang"
   avatar           : "profile_pic.png" #"/images/profile_pic.jpg"
   bio              : "Graduate student, Electric Information Engineering"
-  location         : "Beijing, CN"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=M7eqQ7UAAAAJ&hl=en"
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "shivangiphy"
   vine             :
   weibo            :
   xing             :
