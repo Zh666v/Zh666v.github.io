@@ -16,7 +16,8 @@ Education
 
 Research experience
 ===================
-
+TODO
+<!--
 * Research Assistant, University of Illinois, Urbana-Champaign
 
   * Ph.D. Thesis: “Measurement of high-mass dimuon production for p+p and p+d collisions with 120 GeV proton beam at Fermilab”
@@ -29,10 +30,11 @@ Research experience
 * Research Intern, Raman Reserach Institute, Bangalore
 
   * Implemented MATLAB code to replicate findings of an astrophysics research paper on non-thermal Sunyaev–Zel'dovich effect in clusters of galaxies.
-
+-->
 Projects
 ========
-
+TODO
+<!--
 * Pneumonia detection from chest x-rays using Convolutional Neural Networks
 
   * Processed NIH chest x-ray dataset of dicom x-ray files and radiological report attributes.
@@ -53,6 +55,7 @@ Projects
   * Published in the Proceedings of the 11th annual meeting of the Forum for Information Retrieval Evaluation.
   * Extension of this work has been submitted to “Springer Nature Computer Science” journal.
   * Code:  [github.com/socialmediaie/MTML_HateSpeech]
+-->
 
 Publications
 ============
@@ -64,22 +67,28 @@ Publications
 Talks
 =====
 
+TODO
+<!--
 * [Probing the parton structure in nucleon and nuclei at SeaQuest](https://www.grc.org/photonuclear-reactions-conference/2018/)
   * Gordon Research Conference, Holderness, New Hampshire, Aug 2018.
 * [Dark Photon Search with Drell-Yan-Like Process](https://ui.adsabs.harvard.edu/abs/2015APS..DNP.ND002P/abstract)
   * American Physics Society (Division of Nuclear Physics), Santa Fe, New Mexico, Oct 2015
-
+-->
 Teaching
 ========
 
+TODO
+<!--
 * Fall 2012: PHYS 212 (Electricity and Magnetism)
 * Spring 2013: PHYS 212 (Electricity and Magnetism)
 * Summer 2013: PHYS 213 (Thermal Physics)
 * Spring 2014: PHYS 575 (Particle Physics)
-
+-->
 Awards
 ======
 
+TODO
+<!--
 * 2018, Puzzle Bang 2nd runner-up, Reflection & Projections, University of Illinois at Urbana-Champaign
 * 2017, Felix T. Adler prize, University of Illinois at Urbana-Champaign
 * 2012, Institute Silver medal, IIT Kharagpur
@@ -87,3 +96,4 @@ Awards
 * 2012, Sharmila Bose memorial prize, IIT Kharagpur
 * 2012, H.N. Bose memorial prize, IIT Kharagpur
 * 2008-12, Inspire Scholarship, Department of Science & Technology, Govt. of India
+-->
